@@ -1,0 +1,6 @@
+{
+  "name": "CodeAI Studio",
+  "description": "Professional AI coding assistant for writing, debugging, refactoring, reviewing, and live code preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
